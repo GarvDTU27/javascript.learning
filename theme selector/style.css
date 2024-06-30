@@ -1,0 +1,53 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+}body{
+    background-color: antiquewhite;
+}
+#top_space{
+    height: 100px;
+    background-color:burlywood;
+}
+.choice{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    margin: 3rem;
+    
+    align-self: center;
+    border: 2px solid black;
+    
+
+}
+.choices{
+    display: flex;
+    margin-left: 28rem;
+    margin-top: 5rem;
+    
+}
+
+#blue{
+    background-color: blue;
+}
+#yellow{
+    background-color: yellow;
+}
+#white{
+    background-color: white;
+}
+#grey{
+    background-color: gray;
+}
+.init{
+    display: flex;
+    align-items: center;
+}
+button{
+    height: 50px;
+    width: 150px;
+    font-size: medium;
+    margin: 4rem;
+    margin-left: 54rem;
+    background-color: burlywood;
+}
