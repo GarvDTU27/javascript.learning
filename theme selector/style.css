@@ -39,10 +39,7 @@
 #grey{
     background-color: gray;
 }
-.init{
-    display: flex;
-    align-items: center;
-}
+
 button{
     height: 50px;
     width: 150px;
